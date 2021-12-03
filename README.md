@@ -1,2 +1,2 @@
 # TakeMe
-pet adoption web site 
+pet adoption web site using HTML, CSS and JavaScript
